@@ -1,5 +1,5 @@
 local ffi = require'ffi'
-require'vlc_h'
+require'libvlc_h'
 local vlc = ffi.load'libvlc'
 local winapi = require'winapi'
 require'winapi.messageloop'
