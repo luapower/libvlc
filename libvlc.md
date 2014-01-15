@@ -1,11 +1,9 @@
 ---
 project:     libvlc
-title:       vlc
 tagline:     LibVLC Lua+ffi binding
-category:    Video
 ---
 
-## `local vlc = require'vlc'`
+## `local libvlc = require'libvlc'`
 
 ## Documentation
 
