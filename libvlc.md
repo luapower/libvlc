@@ -1,10 +1,12 @@
 ---
-project:     libvlc
-tagline:     LibVLC Lua+ffi binding
+project: libvlc
+tagline: VLC media player
 ---
 
 ## `local libvlc = require'libvlc'`
 
-## Documentation
+A ffi binding of [libvlc](https://wiki.videolan.org/LibVLC/), the library powering the VLC media player.
 
-It's [here](http://www.videolan.org/developers/vlc/doc/doxygen/html/modules.html).
+## API
+
+Use the [LibVLC Docs](http://www.videolan.org/developers/vlc/doc/doxygen/html/modules.html).
