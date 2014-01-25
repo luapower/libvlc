@@ -1,0 +1,12 @@
+*
+!/bin/
+!/csrc/
+!/bin/mingw32/
+!/bin/linux32/
+!/media/
+
+!/libvlc*
+!/bin/mingw32/libvlc*
+!/bin/linux32/libvlc*
+!/csrc/libvlc/
+!/csrc/libvlc/**
