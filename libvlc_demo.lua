@@ -2,7 +2,6 @@ local ffi = require'ffi'
 require'libvlc_h'
 local vlc = ffi.load'libvlc'
 local winapi = require'winapi'
-require'winapi.messageloop'
 require'winapi.windowclass'
 require'winapi.panelclass'
 
