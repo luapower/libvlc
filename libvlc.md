@@ -1,5 +1,4 @@
 ---
-project: libvlc
 tagline: VLC media player
 ---
 
